@@ -1,12 +1,12 @@
 {
   "categorias": [
     {
-      "titulo": "Flash Geek",
-      "link": "https://www.youtube.com/watch?v=CB2i9pW1nkk&list=PL5snzC4VLIpX2bUBDNfJfV3EIdCgUFezU",
-      "cor": "#6BD1FF",
+      "titulo": "Geek Project TV",
+      "link": "https://bitly.com/geekprojecttv",
+      "cor": "#2A7AE4",
       "link_extra": {
-        "text": "Resumo das melhores notícias geek da semana",
-        "url": "https://www.youtube.com/watch?v=CB2i9pW1nkk&list=PL5snzC4VLIpX2bUBDNfJfV3EIdCgUFezU"
+        "text": "Mais curiosidades sobre o universo Geek",
+        "url": "https://bitly.com/geekprojecttv"
       },
       "videos": [
         {
@@ -18,8 +18,16 @@
           "url": "https://www.youtube.com/watch?v=GqFK5hTWmjo"
         },
         {
+          "titulo": "Séries antigas",
+          "url": "https://www.youtube.com/watch?v=2yoRwchV_h0&t=5s"
+        },
+        {
           "titulo": "Flash Geek #2",
           "url": "https://www.youtube.com/watch?v=qdH3SAtQhP0"
+        },
+        {
+          "titulo": "Fatos sobre o Batman",
+          "url": "https://www.youtube.com/watch?v=0rpkdmauoes&t=1s"
         },
         {
           "titulo": "Flash Geek #1",
@@ -28,106 +36,114 @@
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Filmes",
+      "cor": "#2A7AE4",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Mais novidades sobre filmes",
+        "url": "https://www.geekproject.com.br/category/filmes/"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "XMEN: THE NEW MUTANTS",
+          "url": "https://www.youtube.com/watch?v=uzWEhnhqn4M"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "AFTER WE COLLIDED",
+          "url": "https://www.youtube.com/watch?v=nWst2-8VjVg"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Erros de filmes que pareceram não ser",
+          "url": "https://www.youtube.com/watch?v=-sMq-PXKR-w&t=16s"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "The Old Guard | Trailer da imortalidade",
+          "url": "https://www.youtube.com/watch?v=3I3_j00uvqo"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "The Tax Collector",
+          "url": "https://www.youtube.com/watch?v=F8s4PZ0JENc"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Animes",
+      "cor": "#2A7AE4",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Mais novidades sobre animes",
+        "url": "https://www.geekproject.com.br/category/diversos/animes-diversos/"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Demon Slayer - Official Trailer",
+          "url": "https://www.youtube.com/watch?v=A7sjO7KQ8EM"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Melhores animes lançados nos últimos 10 anos",
+          "url": "https://www.youtube.com/watch?v=T78pheyrzqA&t=2s"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "The God of High School",
+          "url": "https://www.youtube.com/watch?v=oqjwUfprNAk"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Dragon Quest: The Adventure of Dai",
+          "url": "https://www.youtube.com/watch?v=sUWvQIO4Ff8"
+        },
+        {
+          "titulo": "2020 - Japão Submerso",
+          "url": "https://www.youtube.com/watch?v=i0T29YW1gzA"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Séries",
+      "cor": "#2A7AE4",
+      "link_extra": {
+        "text": "Mais novidades sobre séries",
+        "url": "https://www.geekproject.com.br/category/diversos/series/"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Lovecraft Country",
+          "url": "https://www.youtube.com/watch?v=dvamPJp17Ds"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "WandaVision",
+          "url": "https://www.youtube.com/watch?v=eEUhVeQCzos"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "CURSED",
+          "url": "https://www.youtube.com/watch?v=xLTdy6PfotA"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "9 Ótimas séries para maratonar no Amazon Prime Video",
+          "url": "https://www.youtube.com/watch?v=1j85QzI1VAc&t=131s"
         }
       ]
     },
     {
       "titulo": "Games",
-      "cor": "red",
+      "cor": "#2A7AE4",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Mais novidades sobre games",
+        "url": "https://www.geekproject.com.br/category/games/"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Cyberpunk 2077",
+          "url": "https://www.youtube.com/watch?v=-l8hVU2AfXQ"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "10 Jogos para celular baseados em animes",
+          "url": "https://www.youtube.com/watch?v=PvOKau6WbLc"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Halo Infinite",
+          "url": "https://www.youtube.com/watch?v=HZtc5-syeAk"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "PS5 Games - Watch All 4K Trailers",
+          "url": "https://www.youtube.com/watch?v=zjixgch1fIE"
         },
         {
           "titulo": "Pokémon Let's Go Pikachu/Eevee",
@@ -136,7 +152,7 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Music Geek",
       "cor": "#6b5be2",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
