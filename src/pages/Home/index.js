@@ -13,7 +13,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"No vídeo de hoje eu vou falar pra vocês sobre algumas das melhores decisões tomadas pela Marvel em seus filmes."}
+        videoDescription={"Muito antes do advento das séries online tínhamos que recorrer a TV para assistir nossas séries. Você se lembra dessas aqui?"}
       />
       
       <Carousel
